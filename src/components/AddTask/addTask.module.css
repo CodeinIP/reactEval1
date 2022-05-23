@@ -1,0 +1,9 @@
+.todoForm {
+  background-color: grey;
+  text-align: center;
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 5px 25px;
+}

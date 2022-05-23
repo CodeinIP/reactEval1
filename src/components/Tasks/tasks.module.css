@@ -1,0 +1,15 @@
+.singletask {
+  display: flex;
+  background-color: rgb(115, 211, 115);
+  color: red;
+  justify-content: space-between;
+  margin-left: -20px;
+  text-transform: capitalize;
+}
+.tasks {
+  /* sample */
+}
+
+.empty {
+  /* sample */
+}
